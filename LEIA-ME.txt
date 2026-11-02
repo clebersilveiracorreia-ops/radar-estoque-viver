@@ -1,0 +1,1 @@
+VIVER PWA - Envie os arquivos index.html, manifest.webmanifest, sw.js, icon-192.png e icon-512.png na raiz do repositório GitHub. Não envie apenas o ZIP. AVISO: GitHub Pages é público e não oferece autenticação. Dados embutidos no HTML ficam públicos. O cache offline pode armazenar dados no dispositivo. A importação de planilhas não sincroniza automaticamente entre dispositivos.
